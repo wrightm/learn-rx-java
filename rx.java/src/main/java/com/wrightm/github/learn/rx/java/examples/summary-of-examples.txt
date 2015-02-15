@@ -1,0 +1,10 @@
+1. ConditionalRetry
+	* Shows how to create onSubscribe observer using create
+	* Shows how to create an observable from an object using just
+	* Shows how to combine onNext, onError and onCompleted streams using materiliase and convert them back into there on streams demateriliase
+	* Shows how to flatten and observable of observables into a single observable using flatMap
+	* Shows hot to deal with on exception thrown using isOnError.
+	
+2. ErrorHandlingBasics
+	* 
+	
